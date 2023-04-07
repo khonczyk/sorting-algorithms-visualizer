@@ -10,7 +10,7 @@ Available settings for the user:
 
 In this project, we do not directly modify DOM elements. Before starting the animation, a collection of steps is generated containing every array state. Updating the changes to be made is left to React.
 
-### Available Sorting Algorithms
+## Available Sorting Algorithms
 
 - Bubble sort
 - Insertion sort
